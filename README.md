@@ -3,7 +3,7 @@ Um projeto de teste com um arquivo de README📝
 
 - Clicando na imagem abaixo você irá ser redirecionado ao site da nike.
 
-<img src="./tela.gif" alt="gif do site da nike">
+<img src="Tela.gif" alt="gif do site da nike">
 
 ## Tecnologias Utilizadas
 - HTML
